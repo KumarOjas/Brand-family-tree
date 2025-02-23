@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Brand A",
+        "subsidiaries": ["Subsidiary A1", "Subsidiary A2", "Subsidiary A3"]
+    },
+    {
+        "name": "Brand B",
+        "subsidiaries": ["Subsidiary B1", "Subsidiary B2", "Subsidiary B3"]
+    },
+    {
+        "name": "Brand C",
+        "subsidiaries": ["Subsidiary C1", "Subsidiary C2", "Subsidiary C3"]
+    }
+]
