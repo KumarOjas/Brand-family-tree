@@ -50,3 +50,10 @@ This project is a web application that allows users to explore a family tree of 
 
 ## License
 This project is licensed under the MIT License.
+
+![image](https://github.com/user-attachments/assets/0a9cca96-59d0-4cb4-9eea-7c848fda6a28)
+
+
+
+
+
